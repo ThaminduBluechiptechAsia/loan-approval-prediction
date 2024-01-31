@@ -1,4 +1,4 @@
-# Loan-Approval-Classification
+# Loan-Approval-prediction
 
 ## Overview
 
